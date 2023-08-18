@@ -28,7 +28,7 @@ public class Auto {
                     }
                 }
             }
-            return "test.Auto original";
+            return "Auto original";
         } else {
             return "Las piezas no son originales";
         }
